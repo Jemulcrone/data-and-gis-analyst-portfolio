@@ -2,7 +2,7 @@
 title: "Cyclistic Case Study"
 author: "Jessica Mulcrone"
 date: "2023-09-03"
-output: html_document
+output: rmarkdown::github_document
 ---
 ## Task: 
 
