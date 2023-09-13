@@ -1,4 +1,4 @@
-# Cyclistic Google Data Analytics Certificate Case Study ![Screenshot of most common start stations for Cyclistic riders.](https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/start-station.png)
+# Cyclistic Google Data Analytics Certificate Case Study :bike:
 
 ## Overview:
 
@@ -8,16 +8,16 @@ The purpose of this analysis was to determine how members and casual riders use 
 
 ## Languages and Visualization Software used: 
 
--R
--SQL
--Excel
--Python 
+- R
+- SQL
+- Excel
+- Python 
 
 ## Subjects Covered:
 
--Data Cleaning 
--Data Manipulation in R
--Visualizations in R
--Map Creation in Python
--Drawing Conclusions from Results
+- Data Cleaning 
+- Data Manipulation in R
+- Visualizations in R
+- Map Creation in Python
+- Drawing Conclusions from Results
 
