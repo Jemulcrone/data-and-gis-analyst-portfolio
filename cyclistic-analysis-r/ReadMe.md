@@ -1,4 +1,4 @@
-# Cyclistic Google Data Analytics Certificate Case Study 
+# Cyclistic Google Data Analytics Certificate Case Study ![Screenshot of most common start stations for Cyclistic riders.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ## Overview:
 
@@ -8,20 +8,16 @@ The purpose of this analysis was to determine how members and casual riders use 
 
 ## Languages and Visualization Software used: 
 
-R
-SQL
-Excel
-Python 
+-R
+-SQL
+-Excel
+-Python 
 
 ## Subjects Covered:
 
-Data Cleaning 
-xx
-xx
-xx
-
-## Contents:
-
-XX
-XX
+-Data Cleaning 
+-Data Manipulation in R
+-Visualizations in R
+-Map Creation in Python
+-Drawing Conclusions from Results
 
