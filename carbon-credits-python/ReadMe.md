@@ -1,4 +1,6 @@
-# Voluntary Carbon Credits by State <img src="https://user-images.githubusercontent.com/link-to-your-image.png" width="200" />
+# Voluntary Carbon Credits by State
+
+<img src="https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/carbon-credits-python/rec_change_map_4.png" width="200" />
 
 
 ## Overview
