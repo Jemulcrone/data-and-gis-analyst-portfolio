@@ -1,4 +1,4 @@
-# Cyclistic Google Data Analytics Certificate Case Study ![Screenshot of most common start stations for Cyclistic riders.](https://myoctocat.com/assets/images/base-octocat.svg)
+# Cyclistic Google Data Analytics Certificate Case Study ![Screenshot of most common start stations for Cyclistic riders.](https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/start-station.png)
 
 ## Overview:
 
