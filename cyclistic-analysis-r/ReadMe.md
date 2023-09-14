@@ -8,18 +8,19 @@ The purpose of this analysis was to determine how members and casual riders use 
 
 ## My Favorite Part of this Project:
 
-## Languages and Visualization Software used: 
+### Languages and Visualization Software: 
 
-- R
-- SQL
-- Excel
-- Python 
+- R (tidyverse: dplyr, ggplot2, readr)
+- Python (pandas, folium)
+- Excel 
 
-## Subjects Covered:
+### Skills: 
 
-- Data Cleaning 
-- Data Manipulation in R
-- Visualizations in R
-- Map Creation in Python
-- Drawing Conclusions from Results
+- Rstudio
+- Working with Large Datasets 
+- Data Manipulation and Cleaning
+- Critical Analytic Thinking
+- Visualizing Data
+- Communicating Results
+- Providing Recomendations 
 
