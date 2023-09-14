@@ -8,7 +8,18 @@ The purpose of this project is to explore the voluntary carbon credit database a
 
 ## My Favorite Part of this Project:
 
-## Languages and Visualization software used: 
+xxxx
 
-## Subjects Covered:
+### Languages and Visualization Software: 
 
+Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
+
+### Skills: 
+
+- Jupiter Notebooks
+- Interactive Maps
+- Data Manipulation and Cleaning
+- Critical Analytic Thinking
+- Visualizing Data
+- Communicating Results
+- Drawing Conclusions
