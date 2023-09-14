@@ -7,6 +7,19 @@ The purpose of this project is to determine if elevated-lipid sugarcane lines de
 
 ## For Best Markdown, visit https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/sugarcane_decomp-r/sugarcane-markdown.html
 
-## Languages and Visualization Software: 
+## My Favorite Part of this Project was: 
 
-## Subjects Covered: 
+### Languages and Visualization Software: 
+
+- R (tidyverse: dplyr, ggplot2, readr)
+- Figma
+
+### Skills:
+
+- Rstudio
+- Analysis Flowcharts
+- Data Manipulation and Cleaning
+- Critical Analytic Thinking
+- Visualizing Data
+- Communicating Results
+- Drawing Conclusions
