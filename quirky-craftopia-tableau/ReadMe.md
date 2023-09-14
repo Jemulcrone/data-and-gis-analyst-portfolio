@@ -6,11 +6,17 @@
 
 ## My Favorite Part of this Project: 
 
-## Languages and Visualization Software: 
+### Languages and Visualization Software: 
 
 - Tableau
 - Google Sheets
 
-## Skills: 
+### Skills: 
 
-
+- Tablue Public
+- Google Sheets Living Dashboards 
+- Pivot Tables
+- Critical Analytic Thinking
+- Visualizing Data
+- Communicating Results
+- Providing Recomendations
