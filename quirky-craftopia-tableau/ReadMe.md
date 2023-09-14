@@ -1,43 +1,16 @@
-# Data and GIS Analyst Portfolio :chart_with_upwards_trend:
+# Quirky Craftopia Farmer's Market Sales Analysis ☀️:
 
-## About
+## Overview: 
 
-My name is Jess and I 
-
-## Table of Contents 
+## For best markdown report, visit 
 
 
 
-## Carbon Credits :earth_americas:
-
-### Languages and Visualization Software: 
-
-Python (libraries)
-
-### skills: 
-
-## Cyclist Analysis :bike:
-
-### Languages and Visualization Software: 
-
-- R (xxx libraries)
-- Python (xx library XX)
-  
-### skills: 
-
-## Quirky Craftopia  :sunny:
-
-### Languages and Visualization Software: 
+## Languages and Visualization Software: 
 
 - Tableau
 - Google Sheets
 
-### skills: 
+## Skills: 
 
-## Sugarcane Decomposition :leaves:
 
-### Languages and Visualization Software: 
-
-R (xx librairies XX) 
-
-### skills: 
