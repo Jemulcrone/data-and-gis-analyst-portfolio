@@ -14,11 +14,15 @@ My name is Jess and I
 
 ### Overview: 
 
+The purpose of this project was to explore the distribution of voluntary carbon credit creation across the U.S. and identify differences between states that create larger and smaller amounts of credits. 
+
 ### Languages and Visualization Software: 
 
 Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 
 ### Skills: 
+
+- 
 
 
 ## Cyclist Analysis :bike:
