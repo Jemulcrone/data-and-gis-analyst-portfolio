@@ -34,7 +34,7 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 
 ### Overview: 
 
-#### [Cyclistic Bike Report] (https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html)
+#### [Cyclistic Bike Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html)
 
 ### Languages and Visualization Software: 
 
