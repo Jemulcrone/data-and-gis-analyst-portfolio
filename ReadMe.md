@@ -93,9 +93,9 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 
 ## Sugarcane Decomposition :leaves:
 
-### Presentation: 
-
 ### Overview: 
+
+#### [Sugarcane Decomposition Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/sugarcane_decomp-r/sugarcane-markdown.html)
 
 ### Languages and Visualization Software: 
 
