@@ -14,7 +14,9 @@ My name is Jess and I
 
 Python (libraries)
 
-### skills: 
+### Skills: 
+
+### My Favorite Part of this Project:
 
 ## Cyclist Analysis :bike:
 
@@ -23,16 +25,22 @@ Python (libraries)
 - R (xxx libraries)
 - Python (xx library XX)
   
-### skills: 
+### Skills: 
+
+### My Favorite Part of this Project:
 
 ## Quirky Craftopia  :sunny:
+
+### Jump to Markdown Report
 
 ### Languages and Visualization Software: 
 
 - Tableau
 - Google Sheets
 
-### skills: 
+### Skills: 
+
+### My Favorite Part of this Project:
 
 ## Sugarcane Decomposition :leaves:
 
@@ -40,4 +48,6 @@ Python (libraries)
 
 R (xx librairies XX) 
 
-### skills: 
+### Skills:
+
+### My Favorite Part of this Project:
