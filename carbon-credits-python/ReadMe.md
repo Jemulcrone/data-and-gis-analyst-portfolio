@@ -6,6 +6,8 @@ The purpose of this project is to explore the voluntary carbon credit database a
 
 ## For best markdown report, visit https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/carbon-credits-python/carbon-credit-markdown.html
 
+## My Favorite Part of this Project:
+
 ## Languages and Visualization software used: 
 
 ## Subjects Covered:
