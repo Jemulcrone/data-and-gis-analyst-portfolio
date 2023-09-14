@@ -6,6 +6,8 @@ The purpose of this analysis was to determine how members and casual riders use 
 
 ## For best markdown file, visit https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html
 
+## My Favorite Part of this Project:
+
 ## Languages and Visualization Software used: 
 
 - R
