@@ -12,22 +12,20 @@ My name is Jess and I
 
 ### Languages and Visualization Software: 
 
-Python (libraries)
+Python (pandas & geopandas, matplotlib, folium)
 
 ### Skills: 
 
-### My Favorite Part of this Project:
 
 ## Cyclist Analysis :bike:
 
 ### Languages and Visualization Software: 
 
-- R (xxx libraries)
-- Python (xx library XX)
+- R (tidyverse: dplyr, ggplot2, readr)
+- Python (pandas, folium)
   
 ### Skills: 
 
-### My Favorite Part of this Project:
 
 ## Quirky Craftopia  :sunny:
 
@@ -40,14 +38,13 @@ Python (libraries)
 
 ### Skills: 
 
-### My Favorite Part of this Project:
 
 ## Sugarcane Decomposition :leaves:
 
 ### Languages and Visualization Software: 
 
-R (xx librairies XX) 
+R (tidyverse: dplyr, ggplot2, readr) 
 
 ### Skills:
 
-### My Favorite Part of this Project:
+
