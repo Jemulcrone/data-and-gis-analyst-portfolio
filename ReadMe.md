@@ -10,12 +10,11 @@ My name is Jess and I
 
 ## Carbon Credits :earth_americas:
 
-### [Carbon Credits Analysis Markdown Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/carbon-credits-python/carbon-credit-markdown.html)
-
-
 ### Overview: 
 
 The purpose of this project was to explore the distribution of voluntary carbon credit creation across the U.S. and identify differences between states that create larger and smaller amounts of credits. 
+
+#### [Carbon Credits Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/carbon-credits-python/carbon-credit-markdown.html)
 
 ### Languages and Visualization Software: 
 
@@ -33,9 +32,9 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 
 ## Cyclist Analysis :bike:
 
-### Presentation: 
-
 ### Overview: 
+
+#### [Cyclistic Bike Report] (https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html)
 
 ### Languages and Visualization Software: 
 
