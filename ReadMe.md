@@ -10,14 +10,22 @@ My name is Jess and I
 
 ## Carbon Credits :earth_americas:
 
+### Presentation: 
+
+### Overview: 
+
 ### Languages and Visualization Software: 
 
-Python (pandas & geopandas, matplotlib, folium)
+Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 
 ### Skills: 
 
 
 ## Cyclist Analysis :bike:
+
+### Presentation: 
+
+### Overview: 
 
 ### Languages and Visualization Software: 
 
@@ -29,7 +37,9 @@ Python (pandas & geopandas, matplotlib, folium)
 
 ## Quirky Craftopia  :sunny:
 
-### Jump to Markdown Report
+### Presentation: 
+
+### Overview: 
 
 ### Languages and Visualization Software: 
 
@@ -41,10 +51,24 @@ Python (pandas & geopandas, matplotlib, folium)
 
 ## Sugarcane Decomposition :leaves:
 
+### Presentation: 
+
+### Overview: 
+
 ### Languages and Visualization Software: 
 
-R (tidyverse: dplyr, ggplot2, readr) 
+- R (tidyverse: dplyr, ggplot2, readr) 
+- Figma
 
 ### Skills:
 
+## Cirtificates: 
 
+Google Data Anaytics Cirtificate XX make this a link xx
+
+Stanford Machine Learning xx find right name mark as in progress xx
+
+## Contact Info: 
+
+- Email:
+- LinkedIn: 
