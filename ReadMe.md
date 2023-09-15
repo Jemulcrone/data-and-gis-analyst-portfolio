@@ -2,7 +2,7 @@
 
 ## About
 
-My name is Jess and I 
+Hello, name is Jess and I'm a research specialist with a decade of experience working in ecology, crop, and soil labs interested in transitioning into a career in data analytics. 
 
 ## Table of Contents 
 
