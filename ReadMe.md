@@ -2,7 +2,7 @@
 
 ## About
 
-Hello, name is Jess and I'm a research specialist with a decade of experience working in ecology, crop, and soil labs interested in transitioning into a career in data analytics. 
+Hello, name is Jess and I'm a research specialist with a decade of experience working in ecology, crop, and soil labs interested in transitioning into a career focused on data analytics. This portfolio contains projects I've completed using R, Python, SQL, Excel, Tableau, ArcGISpro and ArcGISonline. i 
 
 ## Table of Contents 
 
