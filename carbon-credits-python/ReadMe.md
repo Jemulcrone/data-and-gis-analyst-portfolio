@@ -8,7 +8,7 @@ The purpose of this project is to explore the voluntary carbon credit database a
 
 ## My Favorite Part of this Project:
 
-xxxx
+Working in Python when I was more familiar with R was great because it gave me more context for how programming languages work. I learn well from examples and different version of similar processes let me tease apart same vs. different to find patterns and get to know the programming language ecosystem. I also enjoyed answering questions for myself about carbon credits that I couldn't find elsewhere. 
 
 ### Languages and Visualization Software: 
 
