@@ -2,7 +2,7 @@
 
 ## About
 
-Hello, name is Jess and I'm a research specialist with a decade of experience working in ecology, crop, and soil labs interested in transitioning into a career focused on data analytics. This portfolio contains projects I've completed using R, Python, SQL, Excel, Tableau, ArcGISpro and ArcGISonline. i 
+Hello, my name is Jess and I'm a research specialist with a decade of experience working in ecology, crop, and soil labs interested in transitioning into a career focused on data analytics. This portfolio contains projects I've completed using R, Python, SQL, Excel, Tableau, ArcGISpro and ArcGISonline. I enjoy working with scientific, spatial, and market datasets, each of which is represented in this portfolio. My favorite parts of the analytics process are deciding which questions will best address the task at hand and how to most effectively break down data to discover its stories, and I also welcome the challenge of clearly communicating findings through smart visualizations. I'm excited to share some of what I've been working on here! Thanks for checking out my projects and please [reach out](contact-info) with any questions or thoughts.  
 
 ## Table of Contents 
 
