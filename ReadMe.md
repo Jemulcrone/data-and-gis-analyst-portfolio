@@ -6,7 +6,16 @@ My name is Jess and I
 
 ## Table of Contents 
 
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  * [Carbon Credits](#carbon-credits-earth_americas)
+  * [Cyclistic Analysis](#cyclistic-analysis-bike)
+  * [Quirky Craftopia](#quirky-craftopia-sunny)
+  * [Sugarcane Decomposition](#sugarcane-decomposition-leaves)
+- [Continuing Education and Certificates](#continuing-education-and-certificates)
+- [Contact Info](#contact-info)
 
+## Portfolio Projects
 
 ## Carbon Credits :earth_americas:
 
@@ -30,7 +39,7 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 - Communicating Results
 - Drawing Conclusions
 
-## Cyclist Analysis :bike:
+## Cyclistic Analysis :bike:
 
 ### Overview: 
 
@@ -70,7 +79,7 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 - Visualizing Data
 
 
-## Quirky Craftopia  :sunny:
+## Quirky Craftopia :sunny:
 
 ### Presentation: 
 
@@ -114,7 +123,7 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 
 ## Environmental CO2 Flux Drivers in an Agricultural Field
 
-## Continuing Education and Cirtificates: 
+## Continuing Education and Certificates: 
 
 - Stanford Machine Learning Specialization | Coursera In-progress
 - Google Data Anaytics Cirtificate | Coursera 2023 XX make this a link xx
