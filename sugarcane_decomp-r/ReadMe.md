@@ -7,7 +7,9 @@ The purpose of this project is to determine if elevated-lipid sugarcane lines de
 
 ## [Click for Best Markdown of Code and Analysis](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/sugarcane_decomp-r/sugarcane-markdown.html)
 
-## My Favorite Part of this Project was: 
+## My Favorite Part of this Project:
+
+Writing this script was a challenge in complexity and I learned a lot about communicating workflow efficiently. The analysis involved many levels of corrections for soil contamination and writing code and creating explanatory documents in such a way as to make my thought process accessible to collaboraters helped me understand how integral clarity and organization are to data analysis.   
 
 ### Languages and Visualization Software: 
 
