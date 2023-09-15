@@ -108,6 +108,8 @@ This project compares Quirky Craftopia farmer's market sales to weather and atte
 
 ### Overview: 
 
+This project compares elevated-lipid sugarcane decomposition rates with wild-type to determine the effect of increased lipid concentrations on the decomposition processes and provide insight into the ecological and environmental impacts of growing elevated-lipid crops. 
+
 #### [Sugarcane Decomposition Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/sugarcane_decomp-r/sugarcane-markdown.html)
 
 ### Languages and Visualization Software: 
