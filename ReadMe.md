@@ -135,4 +135,4 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 ## Contact Info: 
 
 - Email: Jemulcrone@gmail.com 
-- LinkedIn: xxx make link xxxx
+- LinkedIn: www.linkedin.com/in/jessica-mulcrone
