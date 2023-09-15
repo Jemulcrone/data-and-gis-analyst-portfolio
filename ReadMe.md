@@ -21,7 +21,7 @@ Hi! my name is Jess and I'm a research specialist with a decade of experience wo
 
 ### Overview: 
 
-The purpose of this project was to explore the distribution of voluntary carbon credit creation across the U.S. and identify differences between states that create larger and smaller amounts of credits. 
+This project explores the distribution of voluntary carbon credits creation across the U.S. and investigates differences between states that generate large and small amounts of credits in order to understand what drives credit creation. 
 
 #### [Carbon Credits Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/carbon-credits-python/carbon-credit-markdown.html)
 
@@ -42,6 +42,8 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 ## Cyclistic Analysis :bike:
 
 ### Overview: 
+
+This project looked for differences between users of Cyclistic Bikes to better understand what might convert a casual rider into a member.   
 
 #### [Cyclistic Bike Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html)
 
@@ -84,6 +86,8 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 ### Presentation: 
 
 ### Overview: 
+
+This project compares Quirky Craftopia farmer's market sales to weather and attendance to determine if certain conditions predict worthwhile weekends for the stand. Sales are then broken down by item type to see which products drive profitability and therfore where variety and inventory increases may have the biggest impact. 
 
 ### Languages and Visualization Software: 
 
