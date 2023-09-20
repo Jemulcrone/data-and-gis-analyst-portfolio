@@ -2,13 +2,13 @@
 
 ## Overview:
 
-The purpose of this analysis was to determine how members and casual riders use Cyclistic Bikes differently in order to lay the groundwork for a marketing plan to convert casual riders into members. I chose this as a guided capstone project for the Google Data Analytics Certificate because I wanted to work with a large data set and for the spatial aspect of the trips. R was used for the analysis and data cleaning was checked in Excel and SQL. I performed the suggested explorations around ride length trip day-of-week, then expanded the analysis to include questions about bike type and start stations to address questions that arose about tourism. Results are presented in an R Markdown file which provides a more in-depth project overview, description of data sources, and summary of data cleaning and analysis.
+The purpose of these web apps is to explore differences in geographical patterns between the casual rider and member user bases of Cyclistic Bikes by looking at the number of trips beginning at each of Cyclistic's thousands of docking stations and how that station popularity changes throughout a year. Data was manipulated in R, turned into a geographic shapefile in ArcGISPro coordinates, then uploaded into ArcGISonline to create an interactive app. More details are available in the ArcGIS story map linked below.
 
-## [Click Here for best Markdown Report of Code and Analysis](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html)
+## [Click Here for App Story Map](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html)
 
 ## My Favorite Part of this Project:
 
-Transforming millions of rows of information into visuals that told a compelling story felt powerful. This was a guided project for a certificate, and exploring the suggested analysis easily led to a new set of questions. Thinking about the best approach to breaking down data to produce the most informative results is a process that I really enjoy, and comparing that processes in business analysis to the scientific analysis I'm most used to helped me understand both better. 
+Looking at
 
 ### Languages and Visualization Software: 
 
