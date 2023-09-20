@@ -68,7 +68,7 @@ This project looked for differences between users of Cyclistic Bikes to better u
 
 These apps were created to visualize how start station popularity changed throughout the year for members and casual users of Cyclistic to further investigate differences between the user bases. 
 
-#### [Cyclistic Bonus Web App](https://arcg.is/DOCam1)
+#### [Bonus Web App](https://arcg.is/DOCam1)
 
 ### Languages and Visualization Software: 
 
@@ -89,7 +89,7 @@ These apps were created to visualize how start station popularity changed throug
 
 This project compares Quirky Craftopia farmer's market sales to weather and attendance to determine if certain conditions predict worthwhile weekends for the stand. Sales are then broken down by item type to see which products drive profitability and therfore where variety and inventory increases may have the biggest impact. 
 
-#### Quirky Craftopia [Live Dashboard]() and [Report]()
+#### Quirky Craftopia [Live Dashboard](https://public.tableau.com/app/profile/jessica.mulcrone/viz/QuirkyCraftopiasLiveFarmersMarketDashboard/LiveWeeklySales) and [Report](https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/quirky-craftopia-tableau/quirky-craftopia-sales-report.pdf)
 
 ### Languages and Visualization Software: 
 
