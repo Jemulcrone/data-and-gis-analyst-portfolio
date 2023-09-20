@@ -62,16 +62,19 @@ This project looked for differences between users of Cyclistic Bikes to better u
 - Communicating Results
 - Providing Recomendations 
 
-## Cyclist Web App :bike:
-
-### Presentation: 
+## Cyclist Bonus Web App 🗺️🌆
 
 ### Overview: 
 
+These apps were created to visualize how start station popularity changed throughout the year for members and casual users of Cyclistic to further investigate differences between the user bases. 
+
+###[Cyclistic Start Staion Web Apps](https://arcg.is/DOCam1)
+
 ### Languages and Visualization Software: 
 
-- ArcGISpro xxx
-- ArcGISonline xxx
+- R (tidyverse: dplyr)
+- ArcGISpro
+- ArcGISonline
   
 ### Skills: 
 
@@ -80,14 +83,13 @@ This project looked for differences between users of Cyclistic Bikes to better u
 - Data Manipulation and Cleaning
 - Visualizing Data
 
-
 ## Quirky Craftopia :sunny:
-
-### Presentation: 
 
 ### Overview: 
 
 This project compares Quirky Craftopia farmer's market sales to weather and attendance to determine if certain conditions predict worthwhile weekends for the stand. Sales are then broken down by item type to see which products drive profitability and therfore where variety and inventory increases may have the biggest impact. 
+
+### Quirky Craftopia [Live Dashboard]() and [Report]()
 
 ### Languages and Visualization Software: 
 
@@ -126,8 +128,6 @@ This project compares elevated-lipid sugarcane decomposition rates with wild-typ
 - Visualizing Data
 - Communicating Results
 - Drawing Conclusions
-
-## Environmental CO2 Flux Drivers in an Agricultural Field
 
 ## Continuing Education and Certificates: 
 
