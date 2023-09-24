@@ -131,7 +131,7 @@ This project compares elevated-lipid sugarcane decomposition rates with wild-typ
 
 ## Continuing Education and Certificates: 
 
-- Stanford Machine Learning Specialization | Coursera In-progress
+- Google Advanced Data Analytics Professional Certificate | Coursera In Progress
 - [Google Data Anaytics Cirtificate](https://coursera.org/share/8399c1d83adf60e4264deca7c4fa2248) | Coursera 2023
 - GGIS 407: Foundations of CyberGIS and Geospatial Data Science | UIUC 2023
 - NRES 455: Advanced GIS for Natural Resource Management | UIUC 2023
