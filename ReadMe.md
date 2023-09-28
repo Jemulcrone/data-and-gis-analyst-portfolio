@@ -130,7 +130,7 @@ This project compares elevated-lipid sugarcane decomposition rates with wild-typ
 - Communicating Results
 - Drawing Conclusions
 
-## Continuing Education and Certificates: 
+## Continuing Education and Certificates 
 
 - Google Advanced Data Analytics Professional Certificate | Coursera In Progress
 - [Google Data Anaytics Cirtificate](https://coursera.org/share/8399c1d83adf60e4264deca7c4fa2248) | Coursera 2023
@@ -139,7 +139,7 @@ This project compares elevated-lipid sugarcane decomposition rates with wild-typ
 - NRES 454: GIS in Natural Resource Management | UIUC 2022
 - CPSC 440: Applied Statistical Methods I | UIUC 2018
   
-## Contact Info: 
+## Contact Info 
 
 - Email: Jemulcrone@gmail.com 
 - LinkedIn: www.linkedin.com/in/jessica-mulcrone
