@@ -10,7 +10,7 @@ Hi! My name is Jess and I'm a research specialist with a decade of experience wo
 - [Portfolio Projects](#portfolio-projects)
   * [Carbon Credits](#carbon-credits-earth_americas)
   * [Cyclistic Analysis](#cyclistic-analysis-bike)
-  * [Cyclistic Bonus Web App](#cyclistic-bonus-web-app-world_map)
+  * [Cyclistic Bonus Web App](#cyclistic-bonus-web-app-world_map-city_sunset)
   * [Quirky Craftopia](#quirky-craftopia-sunny)
   * [Sugarcane Decomposition](#sugarcane-decomposition-leaves)
 - [Continuing Education and Certificates](#continuing-education-and-certificates)
