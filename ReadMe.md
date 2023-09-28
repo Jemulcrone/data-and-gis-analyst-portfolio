@@ -63,7 +63,7 @@ This project looked for differences between users of Cyclistic Bikes to better u
 - Communicating Results
 - Providing Recomendations 
 
-## Cyclistic Bonus Web App :world_map::city_sunset:
+## Cyclistic Bonus Web App :world_map: :city_sunset:
 
 ### Overview: 
 
