@@ -2,7 +2,7 @@
 
 ## Overview:
 
-The purpose of these web apps is to explore differences in geographical patterns between the casual rider and member user bases of Cyclistic Bikes by looking at the number of trips beginning at each of Cyclistic's thousands of docking stations and how station popularity changes throughout a year. [Data](https://divvy-tripdata.s3.amazonaws.com/index.html) was manipulated in R, turned into a geographic shapefile in ArcGISPro coordinates, then uploaded into ArcGISonline to create an interactive app. More details are available in the ArcGIS story map linked below.
+The purpose of these web apps is to explore differences in geographical patterns between the casual rider and member user bases of Cyclistic Bikes by looking at the number of trips beginning at each of Cyclistic's thousands of docking stations and how station popularity changes throughout a year. [Data](https://divvy-tripdata.s3.amazonaws.com/index.html) (which is from a real company called [Divvy](https://divvybikes.com/)) was manipulated in R, turned into a geographic shapefile in ArcGISPro coordinates, then uploaded into ArcGISonline to create an interactive app. More details are available in the ArcGIS story map linked below.
 
 ## [Click Here for Cyclist Start Station Web App Story Map](https://arcg.is/DOCam1)
 
