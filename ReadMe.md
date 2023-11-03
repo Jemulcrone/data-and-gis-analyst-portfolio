@@ -46,7 +46,7 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 
 This project looked for differences between users of Cyclistic Bikes to better understand what might convert a casual rider into a member.   
 
-#### [Cyclistic Bike Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html)
+#### [Cyclistic Bike Share Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/cyclistic-analysis-r/cyclistic-markdown.html)
 
 ### Languages and Visualization Software: 
 
