@@ -88,7 +88,7 @@ These apps were created to visualize how start station popularity changed throug
 
 ### Overview: 
 
-This project compares Quirky Craftopia farmer's market sales to weather and attendance to determine if certain conditions predict worthwhile weekends for the stand. Sales are then broken down by item type to see which products drive profitability and therfore where variety and inventory increases may have the biggest impact. 
+This project compares Quirky Craftopia farmer's market sales to weather and attendance to determine if either condition predicts high profit days. Total sales are then broken down by item type to see which products drive profit and therfore where variety and inventory increases may have the largest impact. 
 
 #### Quirky Craftopia [Live Dashboard](https://public.tableau.com/app/profile/jessica.mulcrone/viz/QuirkyCraftopiasLiveFarmersMarketDashboard/LiveWeeklySales) and [Report](https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/quirky-craftopia-tableau/quirky-craftopia-sales-report.pdf)
 
