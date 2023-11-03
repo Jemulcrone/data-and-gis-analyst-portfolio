@@ -8,7 +8,7 @@ The purpose of this analysis was to determine how members and casual riders use 
 
 ## My Favorite Part of this Project:
 
-Transforming millions of rows of data into visuals that told a compelling story felt powerful. This was a guided project for a certificate, and exploring the suggested analysis easily led to a new set of questions. Thinking about the best approach to breaking down data to generate informative results is a process that I really enjoy, and comparing that processes in business analysis to the scientific analysis I'm most used to helped me to better understand both. 
+Transforming millions of rows of data into visuals that told a compelling story felt powerful. This was a guided project and exploring the suggested analysis easily led me to additional questions. Considering the best approach to breaking down data is a process that I really enjoy, and comparing those decisions in business context to the scientific analysis I'm most familiar with helped me to better understand both. 
 
 ### Languages and Visualization Software: 
 
