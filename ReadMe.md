@@ -4,6 +4,8 @@
 
 Hi! My name is Jess and I'm a Senior Research Specialist with 10+ years of experience working in ecology and soil labs interested in a career focused on data analytics. This portfolio contains projects I've completed using R, Python, SQL, Excel, Tableau, ArcGISpro and ArcGISonline. I enjoy working with scientific, spatial, and market datasets, each of which is represented here. My favorite part of the analytic process is deciding which questions best address the task at hand and how to break data down to find stories, and I also love tackling the challenge of communicating findings through effective visualizations. I'm excited to share some of what I've been working on here! Thanks for checking out my projects and please feel free to [reach out](#contact-info) with any questions or thoughts.  
 
+For more information about me, my resume, or my geospatial projects, check out my StoryMap Resume [here](https://arcg.is/0ufiCi0). 
+
 ## Table of Contents 
 
 - [About](#about)
