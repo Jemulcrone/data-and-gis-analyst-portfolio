@@ -69,7 +69,7 @@ This project looked for differences between users of Cyclistic Bikes to better u
 
 These apps were created to visualize how start station popularity changed throughout the year for members and casual users of Cyclistic to further investigate differences between the user bases. 
 
-#### [Bonus Bike Share Web App](https://arcg.is/DOCam1)
+#### [Bonus Start Station Web App](https://arcg.is/DOCam1)
 
 ### Languages and Visualization Software: 
 
