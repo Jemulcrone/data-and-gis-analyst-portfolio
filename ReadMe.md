@@ -9,7 +9,7 @@ Hi! My name is Jess and I'm a Senior Research Specialist with 10+ years of exper
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   * [Carbon Credits](#carbon-credits-earth_americas)
-  * [Cyclistic Analysis](#cyclistic-analysis-bike)
+  * [Cyclistic Bike Share Analysis](#cyclistic-bike-share-analysis-bike)
   * [Cyclistic Bonus Web App](#cyclistic-bonus-web-app-world_map-city_sunset)
   * [Quirky Craftopia](#quirky-craftopia-sunny)
   * [Sugarcane Decomposition](#sugarcane-decomposition-leaves)
@@ -40,7 +40,7 @@ Python (pandas & geopandas, matplotlib, folium, numpy, seaborn)
 - Communicating Results
 - Drawing Conclusions
 
-## Cyclistic Analysis :bike:
+## Cyclistic Bike Share Analysis :bike:
 
 ### Overview: 
 
