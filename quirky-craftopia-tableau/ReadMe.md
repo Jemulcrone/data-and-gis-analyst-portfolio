@@ -11,7 +11,7 @@ My friend Lorena has stand called Quirky Craftopia at the Urbana, IL, Farmer’s
 
 ## My Favorite Part of this Project: 
 
-Making a live dashboard was exciting and it's fun to check when I return from helping at the Farmer's Market to automatically get a sense of the week's sales. I'm looking forward to exploring automation by adding data scraping for weather to the board. It was satisfying to produce results that directly impacted my friend's business decisions. I liked exploring Tableau's graphing and organization options and am a fan of the interface. 
+Making a live dashboard was exciting! It's fun to check updates when I return from helping at the market to instantly get a sense of the week's sales. I'm looking forward to expanding the project automation by adding data scraping for weather to the dashboard. It was satisfying to produce results that directly impacted my friend's business decisions. I liked exploring Tableau's graphing and organization options and became a fan of the interface. 
 
 ### Languages and Visualization Software: 
 
