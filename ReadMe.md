@@ -22,7 +22,7 @@ Hi! My name is Jess and I'm a Senior Research Specialist with 10+ years of exper
 
 ### Overview: 
 
-This project explores the distribution of voluntary carbon credits creation across the U.S. and investigates differences between states that generate large and small amounts of credits in order to understand what drives credit creation. 
+This project explores the distribution of voluntary carbon credits creation across the U.S. and investigates differences between the states generating large and small numbers of credits in order to understand potential drivers of credit creation. 
 
 #### [Carbon Credits Report](https://htmlpreview.github.io/?https://github.com/Jemulcrone/data-and-gis-analyst-portfolio/blob/main/carbon-credits-python/carbon-credit-markdown.html)
 
